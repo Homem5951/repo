@@ -1,0 +1,17 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Oliwier Makowski",
+      "email": "oliwier530.com@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Filip Kwasniewski",
+      "email": "smapleemail@gmail.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
